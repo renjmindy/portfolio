@@ -1,3 +1,5 @@
 # add the following to _config.yml file
 title: Mindy Jen
 theme: jekyll-theme-minimal
+baseurl: "/portfolio" # Note the leading slash and no trailing slash
+url: "https://renjmindy.github.io"
